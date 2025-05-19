@@ -13,6 +13,8 @@ CURRENTLY -
 
 the 6.14-latest release is built, along with the BORE scheduler and many other fixes, take a look at the 'customization.cfg' for a more detailed look.
 
+the T2 Patchset as well as handheld device optimisations are included in the base patchset for the latest kernel ONLY.
+
 ## linux-tkg
 
 This repository provides scripts to automatically download, patch and compile the Linux Kernel from [the official Linux git repository](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git), with a selection of patches aiming for better desktop/gaming experience. The provided patches can be enabled/disabled by editing the `customization.cfg` file and/or by following the interactive install script. You can use an external config file (default is `$HOME/.config/frogminer/linux-tkg.cfg`, tweakable with the `_EXT_CONFIG_PATH` variable in `customization.cfg`). You can also use your own patches (more information in `customization.cfg` file).
