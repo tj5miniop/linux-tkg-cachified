@@ -1,4 +1,17 @@
-Linux TKG Cachified - a modified TKG Kernel, focusing on hardware support wnd optimisations, with many patches from CachyOS
+Linux TKG Cachified - a modified TKG Kernel, focusing on hardware support and optimisations, with many patches from CachyOS and other great places in the linux community. 
+
+Patches from - 
+
+https://github.com/CachyOS/kernel-patches - Cachy OS Specific Patches
+https://github.com/whitehara/kernel-patch-fedora - Whiehara's collection of patches, this honestly saves me a bunch of time!
+
+### Differences to TKG-Kernel
+
+- Preconfigured config file - Feel free to make any changes.
+
+CURRENTLY - 
+
+the 6.14-latest release is built, along with the BORE scheduler and many other fixes, take a look at the 'customization.cfg' for a more detailed look.
 
 ## linux-tkg
 
