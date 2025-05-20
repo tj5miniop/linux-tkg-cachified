@@ -56,7 +56,7 @@ source "$_where"/BIG_UGLY_FROGMINER
 if [ -n "$_custom_pkgbase" ]; then
   pkgbase="${_custom_pkgbase}"
 else
-  pkgbase=linux"${_basever}"-tkg-"${_cpusched}"${_compiler_name}
+  pkgbase=linux"${_basever}"-tkg-tj5miniop-"${_cpusched}"${_compiler_name}
 fi
 pkgname=("${pkgbase}" "${pkgbase}-headers")
 pkgver="${_basekernel}"."${_sub}"
