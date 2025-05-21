@@ -1,3 +1,9 @@
+# WARNING - this is a testing branch for the upcoming 6.15 kernel, do NOT use this kernel unless absolutely needed...... (or if you just want to have a bit of fun testing out pre-release builds 😃)
+
+
+
+
+
 ### Linux TKG Cachified - a modified TKG Kernel, focusing on hardware support and optimisations, with many patches from CachyOS and other great places in the linux community. 
 
 ## Patches from - 
