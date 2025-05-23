@@ -1,3 +1,5 @@
+[![Build & Release Latest Kernel](https://github.com/tj5miniop/linux-tkg-cachified/actions/workflows/build-release-kernels.yml/badge.svg?branch=6.15-test)](https://github.com/tj5miniop/linux-tkg-cachified/actions/workflows/build-release-kernels.yml)
+
 # WARNING - this is a testing branch for the upcoming 6.15 kernel, do NOT use this kernel unless absolutely needed...... (or if you just want to have a bit of fun testing out pre-release builds 😃)
 
 
