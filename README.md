@@ -1,7 +1,5 @@
 ### Linux TKG Cachified - a modified TKG Kernel, focusing on hardware support and optimisations, with many patches from CachyOS and other great places in the linux community. 
 
-**Note - as of v6.14.8 - Kernels are now built without the "kernel_on_diet" option enabled to try the keep the kernel as compatible as possible**
-
 ## Patches from - 
 
 https://github.com/CachyOS/kernel-patches - Cachy OS Specific Patches
