@@ -10,7 +10,7 @@ https://github.com/whitehara/kernel-patch-fedora - Whiehara's collection of patc
 
 ### How will this repo be updated - ,
 
-<<<<<<< Updated upstream
+Updated upstream
 Everyday, GitHub Actions will build and release kernels automatically whenever a new version comes out. 
 =======
 Everyday, GitHub Actions will build and release kernels automatically whenever a new version comes out. This will use the "kernel_on_diet" option in the config, so there may be some issues with certain hardware. Any issues, feel free to submit an issue and/or compile the kernel fully by yourself.
@@ -27,7 +27,7 @@ This will always release the latest versions, which will (probably) not have bee
 
 CURRENTLY - 
 
-the 6.14-latest release is built, along with the BORE scheduler and many other fixes, take a look at the 'customization.cfg' for a more detailed look.
+the 6.15-latest release is built, along with the BORE scheduler and many other fixes, take a look at the 'customization.cfg' for a more detailed look.
 
 the T2 Patchset as well as handheld device optimisations are included in the base patchset for the latest kernel ONLY.
 
