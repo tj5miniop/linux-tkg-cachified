@@ -1,8 +1,5 @@
-<<<<<<< Updated upstream
-=======
 [![Build & Release Latest Kernel](https://github.com/tj5miniop/linux-tkg-cachified/actions/workflows/build-release-kernels.yml/badge.svg?branch=master)](https://github.com/tj5miniop/linux-tkg-cachified/actions/workflows/build-release-kernels.yml)
 
->>>>>>> Stashed changes
 ### Linux TKG Cachified - a modified TKG Kernel, focusing on hardware support and optimisations, with many patches from CachyOS and other great places in the linux community. 
 
 ## Patches from - 
