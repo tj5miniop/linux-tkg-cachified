@@ -1,4 +1,4 @@
-name: Build & Release Latest Kernel
+name: Build & Release Latest Kernel - testing 
 on:
   schedule:
     - cron: '17 */12 * * *' # “At minute 17 past every 12th hour.”
