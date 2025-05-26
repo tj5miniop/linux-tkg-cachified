@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
+=======
+[![Build & Release Latest Kernel](https://github.com/tj5miniop/linux-tkg-cachified/actions/workflows/build-release-kernels.yml/badge.svg?branch=master)](https://github.com/tj5miniop/linux-tkg-cachified/actions/workflows/build-release-kernels.yml)
+
+>>>>>>> Stashed changes
 ### Linux TKG Cachified - a modified TKG Kernel, focusing on hardware support and optimisations, with many patches from CachyOS and other great places in the linux community. 
 
 ## Patches from - 
@@ -8,7 +13,11 @@ https://github.com/whitehara/kernel-patch-fedora - Whiehara's collection of patc
 
 ### How will this repo be updated - ,
 
+<<<<<<< Updated upstream
 Everyday, GitHub Actions will build and release kernels automatically whenever a new version comes out. 
+=======
+Everyday, GitHub Actions will build and release kernels automatically whenever a new version comes out. This will use the "kernel_on_diet" option in the config, so there may be some issues with certain hardware. Any issues, feel free to submit an issue and/or compile the kernel fully by yourself.
+>>>>>>> Stashed changes
 ### However,
 
 This will always release the latest versions, which will (probably) not have been tested. To avoid any issues, please use the 'stable' stream of releases instead of the 'latest' release branch (links to come!)
