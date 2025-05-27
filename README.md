@@ -10,15 +10,12 @@ https://github.com/CachyOS/kernel-patches - Cachy OS Specific Patches
 https://github.com/whitehara/kernel-patch-fedora - Whiehara's collection of patches, this honestly saves me a bunch of time!
 
 
-### How will this repo be updated - ,
+# Releases 
 
-Everyday, GitHub Actions will build and release kernels automatically whenever a new version comes out. This will use the "kernel_on_diet" option in the config, so there may be some issues with certain hardware. Any issues, feel free to submit an issue and/or compile the kernel fully by yourself.
-
-### However,
-
-This will always release the latest versions, which will (probably) not have been tested. To avoid any issues, please use the 'stable' stream of releases instead of the 'latest' release branch (links to come!)
-
-
+| Release Branch | Version      | Link |
+| ------------- | ------------- | ------ |
+| Stable        | 6.14.7 | https://github.com/tj5miniop/linux-tkg-cachified/releases/stable |
+| Latest (Potentially Unstable) | 6.15  | https://github.com/tj5miniop/linux-tkg-cachified/releases/latest  |
 
 ### Differences to TKG-Kernel
 
