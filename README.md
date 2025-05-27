@@ -23,6 +23,7 @@ This will always release the latest versions, which will (probably) not have bee
 ### Differences to TKG-Kernel
 
 - Preconfigured config file - Feel free to make any changes.
+- Extra patches - These are kept separate from the standard patches if you don't want these.
 
 CURRENTLY - 
 
