@@ -1,5 +1,5 @@
 [![Build & Release Latest Kernel](https://github.com/tj5miniop/linux-tkg-cachified/actions/workflows/build-release-kernels.yml/badge.svg?branch=master)](https://github.com/tj5miniop/linux-tkg-cachified/actions/workflows/build-release-kernels.yml)
-
+# NOTE - This Repo has now been archived, please visit the new repo (https://github.com/tj5miniop/linux-tkg-tj5miniop) to see new changes
 ### Linux TKG Cachified - a modified TKG Kernel, focusing on hardware support and optimisations, with many patches from CachyOS and other great places in the linux community. 
 
 # NOTICE - Ubuntu Prebuilt packages are not building for whatever reason, this is in the process of being fixed. I've opened a Github Issue (https://github.com/Frogging-Family/linux-tkg/issues/1111) about this.
